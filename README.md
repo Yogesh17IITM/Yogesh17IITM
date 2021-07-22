@@ -1,4 +1,12 @@
-Welcome to my GitHub Profile : github.com/Yogesh17IITM
+# About Me:
+
+Hi! This is Yogesh from Madurai, Tamilnadu. I am a R&D Software Engineering Specialist having 5 years of product development experience. 
+
+# Message:
+
+Welcome to my GitHub Page. If you are from non-IT background and if you are keen in learning C++ programming, Data Structures and Algorithms and OOPs, this page might be helpful for you.
+
+![demo](./Smoothed-Particle-Hydrodynamics/Dam-Break.gif)
 
 <div align="center">
 
