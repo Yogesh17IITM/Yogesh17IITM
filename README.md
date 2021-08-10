@@ -1,10 +1,10 @@
 ### About Me:
 
-Hi! This is Yogesh from Madurai, Tamilnadu. I am a R&D Software Engineering Specialist having 5 years of product development experience. 
+Hi! This is Yogesh from Madurai, Tamilnadu, India. I am a software engineer having 5 years of product development experience in core domains, especially in defence, aerospace and automotive areas. 
 
 ### Message:
 
-Welcome to my GitHub Page. If you are from Mechanical background and if you are keen in learning C++, OOP and DSA, and willing to apply in your core area (CFD), this page might be suitable for you!
+Welcome to my GitHub Page. If you are interested in learning basics of C++, OOP and Data Sturucture Algorithms, and apply those in real-time fluid dynamic simulations, my repositories might help you to achieve it.
 
 ### Fluid Simulation Demo (CFD + Programming)
 <div align="center">
