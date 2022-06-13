@@ -1,12 +1,17 @@
-### About Me:
+### Short Summary:
+Hi. Myself Yogesh. I am technically a C++ developer with 5+ years of product development experience in Defense, Aerospace and Automotive domains.
 
-Hi! This is Yogesh from Madurai, Tamilnadu, India. I am a software engineer having 5 years of product development experience in core domains, especially in defence, aerospace and automotive areas. 
 
-### Message:
+### Current Position:
+Senior Software Engineer at Bosch working in ADAS (Advance Driver Assistance Systems) domain.
 
-Welcome to my GitHub Page. If you are interested in learning basics of C++, OOP and Data Sturucture Algorithms, and apply those in real-time fluid dynamic simulations, my repositories might help you to achieve it.
+### Profile Highlights:
+Expertise in C++, M.Tech from IIT Kharagpur
 
-### Fluid Simulation Demo (CFD + Programming)
+### Companies which I worked previously:
+Dassault Systemes, Wipro, IC&SR (IIT Madras)
+
+### Portfolio:
 <div align="center">
 
   <p align="center" ><a title="Linkedin"><img src="./svgs/Dam-Break.gif" alt="Linkedin" width="600px" height="400px"></a> 
