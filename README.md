@@ -12,13 +12,14 @@ Expertise in C++, M.Tech from IIT Kharagpur
 Dassault Systemes, Wipro, IC&SR (IIT Madras)
 
 ### Portfolio:
+Below graphics demonstrates the hydrodynamic simulation in which water in a reservoir splashing out as soon as when the dam gate is opened.
+
 <div align="center">
-
   <p align="center" ><a title="Linkedin"><img src="./svgs/Dam-Break.gif" alt="Linkedin" width="600px" height="400px"></a> 
-
-
 </div>
-  
+
+*(The above graphics has been generated through 'PARAVIEW' visualization tool)*
+
 <div align="center">
   
 ### Contact
