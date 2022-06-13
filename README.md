@@ -12,7 +12,7 @@ Expertise in C++, M.Tech from IIT Kharagpur
 Dassault Systemes, Wipro, IC&SR (IIT Madras)
 
 ### Portfolio:
-Below graphics demonstrates the hydrodynamic simulation in which water in a reservoir splashing out as soon as when the dam gate is opened.
+Below graphics demonstrates the hydrodynamic simulation in which water in a reservoir splashing out as soon as when the dam gate is opened (This project is worked on self interest).
 
 <div align="center">
   <p align="center" ><a title="Linkedin"><img src="./svgs/Dam-Break.gif" alt="Linkedin" width="600px" height="400px"></a> 
@@ -29,3 +29,6 @@ Below graphics demonstrates the hydrodynamic simulation in which water in a rese
 | <p align="center" ><a href="https://www.linkedin.com/in/yogeshwaranr1721992/" title="Linkedin"><img src="./svgs/linkedin.svg" alt="Linkedin" width="30px" height="30px"></a> </p>  |  <p align="center" ><a href="mailto: yogeshwaranrubin@gmail.com" title="Gmail"><img src="./svgs/gmail.svg" alt="Gmail" width="30px" height="30px"></a> </p>  | <p align="center" ><a href="https://yogesh17iitm.github.io/CreatingInterfaceGitHub/" title="Website"><img src="./svgs/website.svg" alt="Website" width="30px" height="30px"></a> </p>  | <p align="center" ><a href="https://www.hackerrank.com/yogeshwaranrubin?hr_r=1" title="Hackerrank"><img src="./svgs/hackerrank.svg" alt="Website" width="30px" height="30px"></a> </p> |
   
 </div>
+
+### For More Topics:
+[Go to My Repositories](https://github.com/Yogesh17IITM?tab=repositories)
