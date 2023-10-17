@@ -1,17 +1,17 @@
 ### About Me:
-A Senior SW Er., expertise in C++ development, having almost 6 years of prooduct development experience in Defense, Aerospace and Automotive domains.
+A Senior SW Er., experience in C++ development with 6+ years of product development experience in Automotive (ADAS) and Defense areas.
 
 ### Profile Highlights:
 SW Er, M.Tech from IIT, University Rank holder, 
 
 ### Technical Expertise:
-C++, Git, Bitbucket, Jira, G-Test, Batch/Shell/python Scripting, vector CANape
+C++, ADAS Git, Bitbucket, Jira, G-Test, Batch/Shell/python Scripting, vector CANape
 
 ### Current Position:
-Senior Software Engineer at Bosch working for ADAS/AD Systems (CAN Signal processing).
+Senior Software Engineer at Harman International, Bangalore, India working for development of Readycare App
 
 ### Previous work experience:
-Dassault Systemes, Wipro, IC&SR (IIT Madras)
+Bosch Global Software Technologies (BGSW), Dassault Systemes Solution Lab Pvt Ltd, Wipro, IC&SR (IIT Madras)
 
 ### Portfolio:
 Demonstration of numerical Fluid simulation through a Classical Dam-break problem.
