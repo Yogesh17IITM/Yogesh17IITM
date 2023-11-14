@@ -13,12 +13,12 @@ Senior Software Engineer at Harman International, Bangalore, India working for I
 ### Previous work experience:
 Bosch Global Software Technologies (BGSW), Dassault Systemes Solution Lab Pvt Ltd, Wipro, IC&SR (IIT Madras)
 
-### Letter to HR recruiter
+### Message to HR:
 <div align="center">
-  <p align="center" ><a title="Cover Letter"><img src="./svgs/Yogesh_CV.png" alt="Linkedin" width="600px" height="400px"></a> 
+  <p align="center" ><a title="Cover Letter"><img src="./svgs/Yogesh_CV.png" alt="Linkedin" width="550px" height="600px"></a> 
 </div>
 
-### Portfolio:
+### C++ Project Portfolio (Self-driven):
 Demonstration of numerical Fluid simulation through a Classical Dam-break problem.
 
 ### Step 1 (Input): Specifying dimension for creating 2D-Geometry [[WPF Application](https://github.com/Yogesh17IITM/WPF-Application)]
