@@ -1,17 +1,22 @@
 ### About Me:
-A Senior SW Er., experience in C++ development with 6+ years of product development experience in Automotive (ADAS) and Defense areas.
+An Embedded Senior SW Er., experience (C++) bring 7 years of product development experience in Automotive - Advance Driver Assistance System (ADAS) domain.
 
 ### Profile Highlights:
-SW Er, M.Tech from IIT, University Rank holder, 
+Senior SW Er, Embedded C++, Linux, M.Tech from IIT, Anna University Rank holder (during Bachelor's degree)
 
 ### Technical Expertise:
-C++, ADAS Git, Bitbucket, Jira, G-Test, Batch/Shell/python Scripting, vector CANape
+C++, ADAS, Embedded SW Development Git, Bitbucket, Jira, G-Test, Batch/Shell/python Scripting, vector CANape
 
 ### Current Position:
-Senior Software Engineer at Harman International, Bangalore, India working for development of Readycare App
+Senior Software Engineer at Harman International, Bangalore, India working for Intelligent cockpit app development
 
 ### Previous work experience:
 Bosch Global Software Technologies (BGSW), Dassault Systemes Solution Lab Pvt Ltd, Wipro, IC&SR (IIT Madras)
+
+### Letter to HR recruiter
+<div align="center">
+  <p align="center" ><a title="Cover Letter"><img src="./svgs/Yogesh_CV.png" alt="Linkedin" width="600px" height="400px"></a> 
+</div>
 
 ### Portfolio:
 Demonstration of numerical Fluid simulation through a Classical Dam-break problem.
