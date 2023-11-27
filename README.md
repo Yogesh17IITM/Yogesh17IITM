@@ -48,3 +48,8 @@ Demonstration of numerical Fluid simulation through a Classical Dam-break proble
 
 ### For More Topics:
 [Go to My Repositories](https://github.com/Yogesh17IITM?tab=repositories)
+
+### Profile Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yogesh17IITM&theme=github_dark) 
+
+![](https://komarev.com/ghpvc/?username=Yogesh17IITM)
