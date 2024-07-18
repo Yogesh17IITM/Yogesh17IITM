@@ -1,5 +1,5 @@
 # Yogeshwaran R
-_Results oriented, well organized, meticulous employee with 7 years of experience in C++._ _A self-motivated and an enthusiatic team player with experience from Automotive Domain. Passionate to contribute towards 'self-Driving' through ADAS technologies and 'safe-driving' through Driver Monitoring Systems._
+_Results oriented, well organized, meticulous professional with 8 years of experience in C++._ _A self-motivated and an enthusiatic team player with experience from Automotive Domain. Passionate to contribute for automotive areas such as 'self-Driving' through ADAS and 'safe-driving' through Driver Monitoring Systems._
 
 ### Current Position and Previous Experiences:
 Senior SW Engineer at Harman International. Worked at Bosch (BGSW), Dassault Systemes, Wipro and IC&SR (IIT Madras).
