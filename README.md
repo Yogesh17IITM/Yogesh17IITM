@@ -2,7 +2,7 @@
 _Results oriented, well organized, meticulous professional with 8 years of experience in C++._ _A self-motivated and an enthusiatic team player with experience from Automotive Domain. Passionate to contribute for automotive areas such as 'self-Driving' through ADAS and 'safe-driving' through Driver Monitoring Systems._
 
 ### Current Position and Previous Experiences:
-Senior SW Engineer at Harman International. Worked at Bosch (BGSW), Dassault Systemes, Wipro and IC&SR (IIT Madras).
+Manager I (Technical Lead) at Caterpillar working for Autonomy SW Development. Previously worked at Harman International, Bosch (BGSW) in Automotive Domain for ADAS. Prior to that, Dassault Systemes, Wipro and IC&SR (IIT Madras) are my initial level of experiences worked in Aerospace and Defense domains. 
 
 ### Technical Skills:
 C++, Python, Linux, OpenCV (Computer Vision), Shell Scripting
