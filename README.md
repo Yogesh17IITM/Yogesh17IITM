@@ -1,46 +1,67 @@
-# Yogeshwaran R
-_Results oriented, well organized, meticulous professional with 8 years of experience in C++._ _A self-motivated and an enthusiatic team player with experience from Automotive Domain. Passionate to contribute for automotive areas such as 'self-Driving' through ADAS and 'safe-driving' through Driver Monitoring Systems._
+# 👋 Yogeshwaran R
 
-### Current Position and Previous Experiences:
-Manager I (Technical Lead) at Caterpillar working for Autonomy SW Development. Previously worked at Harman International, Bosch (BGSW) in Automotive Domain for ADAS. Prior to that, Dassault Systemes, Wipro and IC&SR (IIT Madras) are my initial level of experiences worked in Aerospace and Defense domains. 
+> Results-oriented, well-organized, meticulous professional with 8+ years of experience in C++. A self-motivated and enthusiastic team player with extensive experience in the Automotive Domain. Passionate about contributing to automotive innovations such as 'self-driving' through ADAS and 'safe-driving' through Driver Monitoring Systems.
 
-### Technical Skills:
-C++, Python, Linux, OpenCV (Computer Vision), Shell Scripting
+## 🚀 Current Position & Experience
 
-### Domain knowledge:
-Mobility (ADAS and Intelligent Cockpit), PLM (CATIA, CAA)
+- **Manager I (Technical Lead)** at Caterpillar – Autonomy SW Development
+- **Previous Roles**: Harman International, Bosch (BGSW) – Automotive Domain (ADAS)
+- **Early Experience**: Dassault Systemes, Wipro, IC&SR (IIT Madras) – Aerospace and Defense domains
 
-### Project Portfolio:
-Simulation of water sloshing in a tank (self-driven project, developed using C++, CFD technique).
+## 🛠️ Technical Skills
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+## 📚 Domain Knowledge
+
+- **Mobility**: ADAS (Advanced Driver Assistance Systems), Intelligent Cockpit
+- **PLM**: CATIA, CAA (Component Application Architecture)
+
+## 📁 Project Portfolio
+
+### Simulation of Water Sloshing in a Tank
+A self-driven project developed using C++ and CFD (Computational Fluid Dynamics) techniques to simulate fluid dynamics in a tank environment.
+
 <div align="center">
-  <p align="center" ><a title="Linkedin"><img src="./svgs/Dam-Break.gif" alt="Linkedin" width="600px" height="400px"></a> 
+  <img src="./svgs/Dam-Break.gif" alt="Water Sloshing Simulation" width="600" height="400">
 </div>
 
-### Contact:
+## 📞 Contact
+
 <div align="center">
 
-| **Linkedin** | **Gmail** | **Website** | **Hackerrank** |
+| LinkedIn | Gmail | Website | HackerRank |
 |:-:|:-:|:-:|:-:|
-| <p align="center" ><a href="https://www.linkedin.com/in/yogeshwaranr1721992/" title="Linkedin"><img src="./svgs/linkedin.svg" alt="Linkedin" width="30px" height="30px"></a> </p>  |  <p align="center" ><a href="mailto: yogeshwaranrubin@gmail.com" title="Gmail"><img src="./svgs/gmail.svg" alt="Gmail" width="30px" height="30px"></a> </p>  | <p align="center" ><a href="https://yogesh17iitm.github.io/CreatingInterfaceGitHub/" title="Website"><img src="./svgs/website.svg" alt="Website" width="30px" height="30px"></a> </p>  | <p align="center" ><a href="https://www.hackerrank.com/yogeshwaranrubin?hr_r=1" title="Hackerrank"><img src="./svgs/hackerrank.svg" alt="Website" width="30px" height="30px"></a> </p> |  
+| [<img src="./svgs/linkedin.svg" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/yogeshwaranr1721992/) | [<img src="./svgs/gmail.svg" alt="Gmail" width="30" height="30">](mailto:yogeshwaranrubin@gmail.com) | [<img src="./svgs/website.svg" alt="Website" width="30" height="30">](https://yogesh17iitm.github.io/CreatingInterfaceGitHub/) | [<img src="./svgs/hackerrank.svg" alt="HackerRank" width="30" height="30">](https://www.hackerrank.com/yogeshwaranrubin?hr_r=1) |
+
 </div>
 
-### Buy me a coffee:
+## ☕ Buy Me a Coffee
+
 <div align="center">
-  <p align="center" ><a href="https://github.com/sponsors/Yogesh17IITM" title="Sponsor to Yogesh"><img src="./svgs/SponsorToYogesh.png" alt="Sponsor to Yogesh" width="280px" height="280px"></a>
-    
-  [![](https://img.shields.io/static/v1?label=Sponsor+to+Yogesh&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/Yogesh17IITM)  
+  <a href="https://github.com/sponsors/Yogesh17IITM" title="Sponsor Yogeshwaran">
+    <img src="./svgs/SponsorToYogesh.png" alt="Sponsor Yogeshwaran" width="280" height="280">
+  </a>
+  <br>
+  <a href="https://github.com/sponsors/Yogesh17IITM">
+    <img src="https://img.shields.io/badge/Sponsor-Yogeshwaran-%23fe8e86?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor">
+  </a>
 </div>
 
-### For More Topics:
-[Go to My Repositories](https://github.com/Yogesh17IITM?tab=repositories)
+## 🔗 Explore More
 
-### Profile Stats
+[🌐 Visit My Repositories](https://github.com/Yogesh17IITM?tab=repositories)
+
+## 📊 Profile Stats
+
 <div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yogesh17IITM&theme=github_dark)<br>
-![](https://komarev.com/ghpvc/?username=Yogesh17IITM)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yogesh17IITM&theme=github_dark" alt="GitHub Stats">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Yogesh17IITM" alt="Profile Views">
 </div>
-
-
 
 
